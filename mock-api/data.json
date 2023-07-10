@@ -15,42 +15,22 @@
   ],
   "posts": [
     {
-      "username": "raj",
-      "text": "",
-      "imageURL": "https://firebasestorage.googleapis.com/v0/b/sbook-10530.appspot.com/o/images%2F1688849741769?alt=media&token=2dced99a-1ed2-4087-aa99-d9997ac8245a",
-      "likes": [
-        2,
-        1
-      ],
-      "comments": [
-        {
-          "username": "Lucifer",
-          "comment": "its a nice logo"
-        }
-      ],
-      "id": 5
-    },
-    {
       "username": "Lucifer",
       "text": "asdhg soaiffhg oisfh gpoiash pgapoihg saoih ",
       "imageURL": "",
-      "likes": [],
+      "likes": [
+        1
+      ],
       "comments": [],
       "id": 6
     },
     {
       "username": "raj",
-      "text": "Happy to announce that I had completed the course and got certified.",
-      "imageURL": "https://firebasestorage.googleapis.com/v0/b/sbook-10530.appspot.com/o/images%2F1688965175035?alt=media&token=af89348e-bd6f-4c16-89c6-c1991630c617",
-      "likes": [],
-      "comments": [],
-      "id": 7
-    },
-    {
-      "username": "raj",
       "text": "",
       "imageURL": "https://firebasestorage.googleapis.com/v0/b/sbook-10530.appspot.com/o/images%2F1688965503719?alt=media&token=126595e7-f58d-4345-ba50-5ee9a244c665",
-      "likes": [],
+      "likes": [
+        1
+      ],
       "comments": [],
       "id": 8
     }
