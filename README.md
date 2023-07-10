@@ -16,6 +16,6 @@ Navigate to mock-api direcotry in the termial.
 
 Run `json-server --watch data.json` to run the local json-server. 
 
-Can verify server running navigate to `http://localhost:3000/`.
+To verify server running navigate to `http://localhost:3000/`.
 
 "# Social-Network" 
